@@ -4,8 +4,8 @@
 
 ## Links
 
-- [Demo](https://node-express-fact-563.herokuapp.com/)
-- [Source](https://github.com/denisecase/node-express-fact)
+- [Hosted Page](https://node-express-fact-563.herokuapp.com/)
+- [Repo](https://github.com/charles-hoot/web-apps-node-express-fact)
 
 ## Requirements
 
